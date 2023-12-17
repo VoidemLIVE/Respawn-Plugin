@@ -1,0 +1,40 @@
+# Welcome to the RespawnPlugin config.yml
+# You can edit values here for the plugin
+
+######################################
+# Plugin config
+######################################
+
+spawns:
+  guest:
+    x: 99.78113575106626
+    y: 120.0
+    z: -54.9390840533682
+    yaw: 166.62317
+    pitch: 7.026102
+    world: world
+  vip:
+    x: 81.40291055647867
+    y: 133.0
+    z: -95.22222393065425
+    yaw: -98.588806
+    pitch: 5.0677032
+    world: world
+  staff:
+    x: 138.58044948780477
+    y: 107.0
+    z: -45.63049668954254
+    yaw: -123.45947
+    pitch: 40.318996
+    world: world
+
+
+######################################
+# Language
+######################################
+reloadMsg: '&eRespawn Plugin is reloading'
+deathMsg: '&d%PLAYER% &cDied!' # Use %PLAYER% for player name
+noPerm: '&cNO PERMISSION'
+
+
+# @Voidem on Discord

@@ -1,0 +1,27 @@
+name: RespawnPlugin
+version: '1.0'
+main: net.greenwoodmc.respawnplugin.RespawnPlugin
+api-version: 1.20
+authors: [ VoidemLIVE ]
+description: respawns players, funnily enough
+website: https://greenwoodmc.net
+
+
+commands:
+  resplug:
+    description: Main RespawnPlugin command
+    permission: resplug.main
+    permission-message: No permission
+    default: false
+
+permissions:
+  resplug.main:
+    children:
+      resplug.main.reload: true
+      resplug.main.setspawn: true
+  resplug.guest:
+    default: true
+  resplug.vip:
+    default: false
+  resplug.staff:
+    default: false

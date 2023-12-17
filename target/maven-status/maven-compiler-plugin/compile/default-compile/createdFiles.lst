@@ -1,0 +1,10 @@
+net\greenwoodmc\respawnplugin\commands\resplug.class
+net\greenwoodmc\respawnplugin\RespawnPlugin.class
+net\greenwoodmc\respawnplugin\util\TextUtil.class
+net\greenwoodmc\respawnplugin\util\colour\patterns\Pattern.class
+net\greenwoodmc\respawnplugin\util\colour\patterns\SolidPattern.class
+net\greenwoodmc\respawnplugin\util\colour\patterns\GradientPattern.class
+net\greenwoodmc\respawnplugin\util\colour\IridiumColorAPI.class
+net\greenwoodmc\respawnplugin\listeners\damageListener.class
+net\greenwoodmc\respawnplugin\tabcompleters\resplugTabComplete.class
+net\greenwoodmc\respawnplugin\util\colour\patterns\RainbowPattern.class
