@@ -17,3 +17,5 @@ Permission nodes:
 
 # This plugin isn't planned to recieve any updates
 I just wanted a more public version of this plugin available rather than the one on [Greenwood Park](https://github.com/Greenwood-Parks)'s organization profile.
+
+Available on [Spigot](https://www.spigotmc.org/resources/respawn-plugin.114001/)
